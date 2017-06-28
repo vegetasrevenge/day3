@@ -1,0 +1,63 @@
+body {background-color: grey;
+      font-family: sans-serif;
+
+}
+
+div {
+     margin: 0 auto 20px;
+     padding: 20px;
+     background-color: white;
+     width: 650px;
+}
+#logo {
+     padding-bottom: 20px;
+     color: #800000;
+     font-size: 16pt;
+     text-align: right;
+     text-transform: uppercase;
+     border-bottom: dotted 2px #D1D67C;
+}
+
+nav a {
+     color: #800000;
+     font-weight: bold;
+     border: solid 1px #D1D67C;
+     padding: 7px 30px;
+     text-decoration: none;
+
+}
+
+nav a:hover {
+    background-color: #D1D67C;
+    color: white;
+}
+
+p {
+  line-height: 25px;
+}
+
+p a {
+     color: #468472;
+     font-weight: bold;
+}
+
+
+
+#lorem-ipsum {
+    color: #D14821;
+    margin-top: 75px;
+}
+
+ul {
+    background-color: #468472;
+    color: white;
+    width: 40%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    line-height: 25px;
+}
+
+h2 {
+    color: #4E5051;
+    font-weight: lighter;
+}
